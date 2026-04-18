@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="CertiLock Use Case Final">
+    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- SYSTEM BOUNDARY -->
+        <mxCell id="sys" value="CertiLock Campus System" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="600" height="420" as="geometry"/>
+        </mxCell>
+
+        <!-- ACTORS -->
+        <mxCell id="a1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="50" height="100" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="a2" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="50" height="100" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="a3" value="Verifier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="950" y="250" width="50" height="100" as="geometry"/>
+        </mxCell>
+
+        <!-- USE CASES -->
+        <mxCell id="u1" value="Generate Certificate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="40" y="40" width="180" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u2" value="Create Hash (SHA-256)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="220" y="40" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u3" value="Store Hash on Blockchain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="420" y="120" width="220" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u4" value="Upload Certificate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="40" y="140" width="180" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u5" value="Generate QR Code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="220" y="140" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u6" value="View Certificate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="40" y="260" width="180" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u7" value="Download Certificate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="220" y="260" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u8" value="Scan QR Code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="420" y="260" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="u9" value="Verify Certificate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sys">
+          <mxGeometry x="300" y="340" width="220" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- CONNECTIONS (ACTORS) -->
+        <mxCell edge="1" source="a1" target="u1" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell edge="1" source="a1" target="u4" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+
+        <mxCell edge="1" source="a2" target="u6" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell edge="1" source="a2" target="u7" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+
+        <mxCell edge="1" source="a3" target="u8" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell edge="1" source="a3" target="u9" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+
+        <!-- INTERNAL FLOW -->
+        <mxCell edge="1" source="u1" target="u2" parent="sys"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell edge="1" source="u2" target="u3" parent="sys"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell edge="1" source="u4" target="u5" parent="sys"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell edge="1" source="u8" target="u9" parent="sys"><mxGeometry relative="1" as="geometry"/></mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
