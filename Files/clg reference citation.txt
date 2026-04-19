@@ -1,0 +1,25 @@
+S. Dhote, P. Maidamwar and S. Thakur, "An Empirical Review of Security Models Used for Issuing Tamper Proof Certificates for Authentic Credentials," 2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 486-492, doi: 10.1109/IDCIoT59759.2024.10467298. keywords: {Measurement;Industries;Reviews;Scalability;Government;Data models;Robustness;Tamper-Proof Certificates;Authentic Credentials;Security Models},
+
+
+S. Dhote, P. Maidamwar and S. Thakur, "Integrating Blockchain and Multi-Factor Authentication for Enhanced Cloud Security in Certificate Verification Systems," 2024 International Conference on Distributed Computing and Optimization Techniques (ICDCOT), Bengaluru, India, 2024, pp. 1-7, doi: 10.1109/ICDCOT61034.2024.10516190. keywords: {Multi-factor authentication;Cloud computing security;User interfaces;Blockchains;Distributed computing;Optimization;Blockchain Technology;Cloud Security;certificate verification},
+
+
+R. Singh, A. Khan and N. Purohit, "Design of an Improved Model for Authentication Using Blockchain and Zero-Knowledge Proofs," 2025 12th International Conference on Emerging Trends in Engineering & Technology - Signal and Information Processing (ICETET - SIP), Nagpur, India, 2025, pp. 1-6, doi: 10.1109/ICETETSIP64213.2025.11156282. keywords: {Privacy;Scalability;Supply chains;Smart contracts;Authentication;Medical services;Blockchains;Recording;Interoperability;Resilience;Blockchain;Zero-Knowledge Proofs;Authentication;Privacy;Cyber security},
+
+
+R.P. Puneeth, G Parthasarathy, A cross-chain-based approach for secure data sharing and interoperability in electronic health records using blockchain technology,Computers and Electrical Engineering,Volume 120, Part A,2024,109676,ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2024.109676.
+Keywords: Blockchain; Authentication; Electronic healthcare records; Deep residual network; SpinalNet
+
+A. Pathak, I. Al-Anbagi and H. J. Hamilton, "Blockchain-Enhanced Zero Knowledge Proof-Based Privacy-Preserving Mutual Authentication for IoT Networks," in IEEE Access, vol. 12, pp. 118618-118636, 2024, doi: 10.1109/ACCESS.2024.3450313.
+keywords: {Authentication;Internet of Things;Security;Scalability;Privacy;Blockchains;Low latency communication;Data privacy;Zero knowledge proof;Authentication;blockchain;IoT networks;privacy-preserving;zero-knowledge proof},
+
+Sharma DM, Shandilya SK, Satapathy SC. Maximizing blockchain security: Merkle tree hash values generated through advanced vectorized elliptic curve cryptography mechanisms. Concurrency Computat Pract Exper. 2023;35(23):e7829. doi: 10.1002/cpe.7829
+
+N. Rathi, A. Lulani, S. Daga, A. Meshram and A. K. Soni, "VoteZAP- Blockchain-Based Secure Online Voting Systems: Architecture, Security, and Future Directions," 2026 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 2026, pp. 1-7, doi: 10.1109/SCEECS68810.2026.11429850. keywords: {Privacy;Distributed ledger;Systems architecture;Blockchains;Fraud;Reliability;Electronic voting;Homomorphic encryption;System analysis and design;Immune system;(Blockchain;Secure Online Voting;Cryptography;E-Governance;Homomorphic Encryption;Election Security;Distributed Ledger)}
+
+
+M. A. Aleisa, "Blockchain-Enabled Zero Trust Architecture for Privacy-Preserving Cybersecurity in IoT Environments," in IEEE Access, vol. 13, pp. 18660-18676, 2025, doi: 10.1109/ACCESS.2025.3529309.
+keywords: {Blockchains;Security;Authentication;Privacy;Internet of Things;Cryptography;Computer architecture;Access control;Resilience;Data privacy;IoT security;privacy preservation;access control;blockchain technology;zero trust architecture;quantum resilience;data confidentiality;user authentication;decentralization;secure communication},
+
+
+
