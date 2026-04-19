@@ -1,0 +1,104 @@
+S. Dhote, P. Maidamwar and S. Thakur, "An Empirical Review of Security Models Used for Issuing Tamper Proof Certificates for Authentic Credentials," 2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 486-492, doi: 10.1109/IDCIoT59759.2024.10467298. keywords: {Measurement;Industries;Reviews;Scalability;Government;Data models;Robustness;Tamper-Proof Certificates;Authentic Credentials;Security Models},
+
+
+S. Dhote, P. Maidamwar and S. Thakur, "Integrating Blockchain and Multi-Factor Authentication for Enhanced Cloud Security in Certificate Verification Systems," 2024 International Conference on Distributed Computing and Optimization Techniques (ICDCOT), Bengaluru, India, 2024, pp. 1-7, doi: 10.1109/ICDCOT61034.2024.10516190. keywords: {Multi-factor authentication;Cloud computing security;User interfaces;Blockchains;Distributed computing;Optimization;Blockchain Technology;Cloud Security;certificate verification},
+
+
+R. Singh, A. Khan and N. Purohit, "Design of an Improved Model for Authentication Using Blockchain and Zero-Knowledge Proofs," 2025 12th International Conference on Emerging Trends in Engineering & Technology - Signal and Information Processing (ICETET - SIP), Nagpur, India, 2025, pp. 1-6, doi: 10.1109/ICETETSIP64213.2025.11156282. keywords: {Privacy;Scalability;Supply chains;Smart contracts;Authentication;Medical services;Blockchains;Recording;Interoperability;Resilience;Blockchain;Zero-Knowledge Proofs;Authentication;Privacy;Cyber security},
+
+
+R.P. Puneeth, G Parthasarathy, A cross-chain-based approach for secure data sharing and interoperability in electronic health records using blockchain technology,Computers and Electrical Engineering,Volume 120, Part A,2024,109676,ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2024.109676.
+Keywords: Blockchain; Authentication; Electronic healthcare records; Deep residual network; SpinalNet
+
+A. Pathak, I. Al-Anbagi and H. J. Hamilton, "Blockchain-Enhanced Zero Knowledge Proof-Based Privacy-Preserving Mutual Authentication for IoT Networks," in IEEE Access, vol. 12, pp. 118618-118636, 2024, doi: 10.1109/ACCESS.2024.3450313.
+keywords: {Authentication;Internet of Things;Security;Scalability;Privacy;Blockchains;Low latency communication;Data privacy;Zero knowledge proof;Authentication;blockchain;IoT networks;privacy-preserving;zero-knowledge proof},
+
+Sharma DM, Shandilya SK, Satapathy SC. Maximizing blockchain security: Merkle tree hash values generated through advanced vectorized elliptic curve cryptography mechanisms. Concurrency Computat Pract Exper. 2023;35(23):e7829. doi: 10.1002/cpe.7829
+
+N. Rathi, A. Lulani, S. Daga, A. Meshram and A. K. Soni, "VoteZAP- Blockchain-Based Secure Online Voting Systems: Architecture, Security, and Future Directions," 2026 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 2026, pp. 1-7, doi: 10.1109/SCEECS68810.2026.11429850. keywords: {Privacy;Distributed ledger;Systems architecture;Blockchains;Fraud;Reliability;Electronic voting;Homomorphic encryption;System analysis and design;Immune system;(Blockchain;Secure Online Voting;Cryptography;E-Governance;Homomorphic Encryption;Election Security;Distributed Ledger)}
+
+
+M. A. Aleisa, "Blockchain-Enabled Zero Trust Architecture for Privacy-Preserving Cybersecurity in IoT Environments," in IEEE Access, vol. 13, pp. 18660-18676, 2025, doi: 10.1109/ACCESS.2025.3529309.
+keywords: {Blockchains;Security;Authentication;Privacy;Internet of Things;Cryptography;Computer architecture;Access control;Resilience;Data privacy;IoT security;privacy preservation;access control;blockchain technology;zero trust architecture;quantum resilience;data confidentiality;user authentication;decentralization;secure communication},
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////
+
+P. Gajbhiye, A. Turankar and M. Dhone, "Adversarial and Quantum-Driven Neural Network Cryptography: A Comprehensive Framework for Secure Encryption," 2025 International Conference on Sustainability, Innovation & Technology (ICSIT), Nagpur, India, 2025, pp. 1-12, doi: 10.1109/ICSIT65336.2025.11295049. keywords: {Training;Quantum computing;Computational modeling;Neural networks;Machine learning;Generative adversarial networks;Transformers;Encryption;Cryptography;Random number generation;Generative Adversarial Networks;Advanced Neural Network;Machine Learning;Cryptography;Cryptanalysis;Quantum Computing},
+
+
+Blockchain technology. (n.d.). Google Books. https://books.google.co.in/books?hl=en&lr=&id=zJwIEQAAQBAJ&oi=fnd&pg=PA163&ots=uFhunH_01f&sig=RTDQJ8NmvdNJj2IwuNocD2aEg3Q&redir_esc=y#v=onepage&q&f=false
+
+
+‪Blockchain technology: Myths, realities and future‬. (n.d.). https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gb-7uR0AAAAJ&citation_for_view=Gb-7uR0AAAAJ:qjMakFHDy7sC
+
+A. K. Soni, A. Padiya, B. Patel, S. H. Raza and K. Malviya, "Music Streaming Using Blockchain - Blockics," 2023 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 2023, pp. 1-6, doi: 10.1109/SCEECS57921.2023.10062986. keywords: {Computer science;Online banking;Government;Smart contracts;Medical services;Bitcoin;Streaming media;Blockchain;NFTs;Music Streaming;Smart Contract;Virtual currency;artists},
+
+//////////////////////////////////////
+
+
+REFERENCES
+
+[1] S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System," 2008. [Online]. Available: https://bitcoin.org/bitcoin.pdf
+
+[2] N. Malsa, V. Vyas, J. Gautam, R. N. Shaw, and A. Ghosh, "Framework and smart contract for blockchain-enabled certificate verification system using robotics," in Machine Learning for Robotics Applications. Studies in Computational Intelligence, vol. 960. Singapore: Springer, 2021.
+
+[3] A. Alammary, S. Alhazmi, M. Almasri, and S. Gillani, "Blockchain-based applications in education: A systematic review," Applied Sciences, vol. 9, no. 12, p. 2400, 2019.
+
+[4] F. Casino, T. K. Dasaklis, and C. Patsakis, "A systematic literature review of blockchain-based applications: current status, classification, and open issues," Telematics and Informatics, vol. 36, pp. 55–81, 2019.
+
+[5] M. Jirgensons and J. Kapenieks, "Blockchain and the future of digital learning credential assessment and management," Journal of Teacher Education for Sustainability, vol. 19, no. 1, pp. 145–156, 2017.
+
+[6] N. Malsa, V. Vyas, J. Gautam, R. N. Shaw, and A. Ghosh, "Reduction in gas cost for blockchain enabled smart contract," in 2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON), pp. 1–6, IEEE, 2021.
+
+[7] K. D. Kumar, P. Senthil, and D. Kumar, "Educational certificate verification system using blockchain," International Journal of Scientific & Technology Research, vol. 9, no. 3, pp. 82–85, 2020.
+
+[8] N. Smolenski, "Top 10 reasons to use Blockcerts," Learning Machine Blog, 2018. [Online]. Available: https://medium.com/learning-machine-blog/top-10-reasons-to-use-blockcerts-ec7d29f2712
+
+[9] G. Wood, "Ethereum: A secure decentralised generalised transaction ledger," Ethereum Project Yellow Paper, vol. 151, pp. 1–32, 2014.
+
+[10] C. Dannen, Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners. Berkeley, CA: Apress, 2017.
+
+[11] A. Tariq, H. B. Haq, and S. T. Ali, "Cerberus: A blockchain-based accreditation and degree verification system," IEEE Transactions on Computational Social Systems, vol. 9, no. 1, pp. 285–293, 2022.
+
+[12] T. Lynn, J. G. Mooney, B. Rosati, and M. Cummins, Eds., Disrupting Finance: FinTech and Strategy in the 21st Century. Cham: Palgrave Pivot, 2019.
+
+[13] "Polygon (Matic) Whitepaper," Polygon Technology, 2021. [Online]. Available: https://polygon.technology/papers/pol-whitepaper
+
+[14] National Institute of Standards and Technology, "Secure Hash Standard (SHS)," FIPS PUB 180-4, Aug. 2015.
+
+[15] R. L. Rivest, A. Shamir, and L. Adleman, "A method for obtaining digital signatures and public-key cryptosystems," Communications of the ACM, vol. 21, no. 2, pp. 120–126, 1978.
+
+[16] P. Schmidt, "Blockcerts - An open infrastructure for academic credentials on the blockchain," Learning Machine and MIT Media Lab, 2016.
+
+[17] S. Haber and W. S. Stornetta, "How to time-stamp a digital document," Journal of Cryptology, vol. 3, no. 2, pp. 99–111, 1991.
+
+[18] J. Zhang, L. Cui, and Y. Fu, "Machine learning-based fraud detection in blockchain-enabled supply chains," IEEE Access, vol. 8, pp. 178534–178543, 2020.
+
+[19] D. Eastlake and P. Jones, "US Secure Hash Algorithm 1 (SHA1)," RFC 3174, Sept. 2001.
+
+[20] M. Vukolic, "The quest for scalable blockchain fabric: Proof-of-work vs. BFT replication," in International Workshop on Open Problems in Network Security. Cham: Springer, 2015, pp. 112–125.
+
+[21] A. Chaudhary, M. K. Dutta, and R. Burget, "Document normalization for cross-platform hash consistency," in 2019 42nd International Conference on Telecommunications and Signal Processing (TSP), pp. 547–550, IEEE, 2019.
+
+[22] S. Pathak, V. Gupta, N. Malsa, A. Ghosh, and R. N. Shaw, "Smart contract for academic certificate verification using Ethereum," in Advanced Computing and Intelligent Technologies. Lecture Notes in Electrical Engineering, vol. 914. Singapore: Springer, 2022.
+
+[23] T.-T. Kuo, H. Zavaleta Rojas, and L. Ohno-Machado, "Comparison of blockchain platforms: a systematic review and healthcare examples," Journal of the American Medical Informatics Association, vol. 26, no. 5, pp. 462–478, 2019.
+
+[24] J. Nielsen and R. Molich, "Heuristic evaluation of user interfaces," in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1990, pp. 249–256.
+
+[25] S. K. Shawon, H. Ahammad, S. Z. Shetu, M. Rahman, and S. A. Hossain, "Diucerts dapp: A blockchain-based solution for verification of educational certificates," in 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT), pp. 1–10, IEEE, 2021.
+
+[26] F. R. Vidal, F. Gouveia, and C. Soares, "Revocation mechanisms for academic certificates stored on a blockchain," in 2020 15th Iberian Conference on Information Systems and Technologies (CISTI), pp. 1–6, IEEE, 2020.
+
+
+
+
+
+
