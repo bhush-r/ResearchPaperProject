@@ -18,3 +18,41 @@ V. U. Rathod, Y. K. Mali, N. P. Sable, R. R. Rathod, M. N. Rathod and N. A. Rath
 
 
 
+////////////////////////////////////////////////
+
+TY  - JOUR
+AU  - Xu, Yuan
+PY  - 2024/01/01
+SP  - 1
+EP  - 20
+T1  - Development of Blockchain-Based Academic Credential Verification System
+VL  - 11
+DO  - 10.4236/oalib.1112130
+JO  - OALib
+ER  - 
+
+
+[10/01, 12:28 pm] Bhushan Lilhare: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10872957
+[10/01, 12:57 pm] Bhushan Lilhare: https://ieeexplore.ieee.org/document/10169782/
+
+https://ieeexplore.ieee.org/servlet/Login?logout=/document/9225878/?signout=success
+
+https://ieeexplore.ieee.org/document/10775031/
+
+https://www.researchgate.net/publication/384476272_Development_of_Blockchain-Based_Academic_Credential_Verification_System
+[19/01, 1:54 pm] Bhushan Lilhare: https://chatgpt.com/share/696dea28-0f2c-8013-8f2a-9e7a4bca2c5c
+[19/01, 2:15 pm] Bhushan Lilhare: https://ieeexplore.ieee.org/document/10169782
+[19/01, 2:19 pm] Bhushan Lilhare: https://ieeexplore.ieee.org/document/9225878
+
+
+[10/01, 12:28 pm] Bhushan Lilhare: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10872957
+[10/01, 12:57 pm] Bhushan Lilhare: https://ieeexplore.ieee.org/document/10169782/
+
+https://ieeexplore.ieee.org/servlet/Login?logout=/document/9225878/?signout=success
+
+https://ieeexplore.ieee.org/document/10775031/
+
+https://www.researchgate.net/publication/384476272_Development_of_Blockchain-Based_Academic_Credential_Verification_System
+
+
+
