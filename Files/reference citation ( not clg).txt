@@ -1,0 +1,20 @@
+A. Gayathiri, J. Jayachitra and S. Matilda, "Certificate validation using blockchain," 2020 7th International Conference on Smart Structures and Systems (ICSSS), Chennai, India, 2020, pp. 1-4, doi: 10.1109/ICSSS49621.2020.9201988. keywords: {Conferences;Intelligent structures;Forgery;Reliability;Digital images;blockchain;digital certificate;hashing;a chaotic algorithm}.
+
+
+J. -C. Cheng, N. -Y. Lee, C. Chi and Y. -H. Chen, "Blockchain and smart contract for digital certificate," 2018 IEEE International Conference on Applied System Invention (ICASI), Chiba, Japan, 2018, pp. 1046-1051, doi: 10.1109/ICASI.2018.8394455. keywords: {Contracts;Companies;Conferences;Technological innovation;Distributed databases;Certification;blockchain;hyperledger;digital certificate;hashing}.
+
+J. Chen, S. Yao, Q. Yuan, K. He, S. Ji and R. Du, "CertChain: Public and Efficient Certificate Audit Based on Blockchain for TLS Connections," IEEE INFOCOM 2018 - IEEE Conference on Computer Communications, Honolulu, HI, USA, 2018, pp. 2060-2068, doi: 10.1109/INFOCOM.2018.8486344. keywords: {Protocols;Servers;Data structures;Electronic mail;Monitoring}.
+
+Z. Wang, J. Lin, Q. Cai, Q. Wang, D. Zha and J. Jing, "Blockchain-Based Certificate Transparency and Revocation Transparency," in IEEE Transactions on Dependable and Secure Computing, vol. 19, no. 1, pp. 681-697, 1 Jan.-Feb. 2022, doi: 10.1109/TDSC.2020.2983022.
+keywords: {Web servers;Blockchain;Browsers;Publishing;Public key;Blockchain;certificate transparency;certificate revocation;public key infrastructure;trust management}
+
+
+Murat Yasin Kubilay, Mehmet Sabir Kiraz, Hacı Ali Mantar,
+CertLedger: A new PKI model with Certificate Transparency based on blockchain,Computers & Security,Volume 85,2019,
+Pages 333-352,ISSN 0167-4048,https://doi.org/10.1016/j.cose.2019.05.013.
+Keywords: PKI; SSL/TLS; Certificate Transparency; Certificate validation; Privacy; Blockchain.
+
+V. U. Rathod, Y. K. Mali, N. P. Sable, R. R. Rathod, M. N. Rathod and N. A. Rathod, "The Use of Blockchain Technology to Verify KYC Documents," 2023 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS), New Raipur, India, 2023, pp. 1-6, doi: 10.1109/ICBDS58040.2023.10346414. keywords: {Ecosystems;Organizations;Blockchains;Registers;Asset management;Servers;Security;Blockchain;Identity Management;KYC},
+
+
+
