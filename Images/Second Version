@@ -1,0 +1,414 @@
+You are a Senior Android Architect and Code Reviewer.
+
+I already have a complete Android Studio project called "DataSync" built using:
+
+- Kotlin
+- MVVM
+- Hilt
+- Firebase Authentication
+- Cloud Firestore
+- WorkManager
+- Navigation Component
+- ViewBinding
+- DataStore
+- Material Design 3
+
+IMPORTANT:
+
+Do NOT create a new project.
+
+You must work on my existing project.
+
+----------------------------------------
+PART 1 - COMPLETE PROJECT AUDIT
+----------------------------------------
+
+First inspect the ENTIRE project.
+
+Check every package, folder and file.
+
+Review:
+
+- UI
+- Navigation
+- MVVM
+- Repository
+- Hilt
+- Firebase
+- Firestore
+- WorkManager
+- DataStore
+- Manifest
+- Gradle
+- Security Rules
+- Permissions
+- Sync
+- Admin features
+- User features
+
+Verify every requirement from the Machine Test PDF.
+
+Do NOT assume anything.
+
+Actually inspect the code.
+
+----------------------------------------
+PART 2 - REQUIREMENT VERIFICATION
+----------------------------------------
+
+Create a report.
+
+For EVERY requirement write:
+
+✅ Completed
+
+⚠ Partially completed
+
+❌ Missing
+
+Also mention:
+
+Which files implement it.
+
+If partially completed explain WHY.
+
+If missing explain WHAT needs to be added.
+
+----------------------------------------
+PART 3 - ADMIN FEATURE REVIEW
+----------------------------------------
+
+Verify Admin can:
+
+✔ Login
+✔ Logout
+✔ Access Admin Panel
+✔ CRUD Records
+✔ View Users
+✔ Sync Data
+✔ Manage Contacts
+✔ Manage SMS
+✔ Manage Call Logs
+✔ Trigger Sync
+✔ View Dashboard
+✔ Access Bottom Navigation
+✔ Development Mode
+✔ Firebase Sync
+✔ Background Sync
+
+Check every admin functionality.
+
+If anything is missing implement it.
+
+----------------------------------------
+PART 4 - USER FEATURE REVIEW
+----------------------------------------
+
+Verify User can:
+
+✔ Login
+✔ Logout
+✔ CRUD own Records
+✔ View own Contacts
+✔ View own SMS
+✔ View own Call Logs
+✔ Background Sync
+✔ Firebase Sync
+✔ Dashboard
+✔ Bottom Navigation
+
+User must NEVER access Admin Panel.
+
+Check Firestore Security Rules also.
+
+----------------------------------------
+PART 5 - ADD REGISTER FEATURE
+----------------------------------------
+
+Currently project has Login screen only.
+
+Add complete Registration.
+
+Requirements:
+
+RegisterActivity
+
+RegisterViewModel
+
+Register Repository
+
+Firebase Authentication
+
+Firestore
+
+Fields:
+
+Name
+
+Email
+
+Password
+
+Confirm Password
+
+Validation
+
+Progress
+
+Error Handling
+
+On successful registration:
+
+Create Firebase Auth account.
+
+Create Firestore document.
+
+users/{uid}
+
+Fields:
+
+uid
+
+name
+
+email
+
+role = USER
+
+devModeEnabled = false
+
+createdAt
+
+lastLogin
+
+After registration
+
+Navigate to Login.
+
+Use existing architecture.
+
+Do NOT break MVVM.
+
+----------------------------------------
+PART 6 - LOGOUT FEATURE
+----------------------------------------
+
+Implement Logout completely.
+
+Logout must:
+
+FirebaseAuth.signOut()
+
+Clear DataStore
+
+Clear SessionManager
+
+Cancel WorkManager
+
+Clear Back Stack
+
+Navigate to Login
+
+Prevent Back button returning to MainActivity.
+
+----------------------------------------
+PART 7 - VERIFY FIRESTORE RULES
+----------------------------------------
+
+Review my Firestore Rules.
+
+Ensure:
+
+Users only access own data.
+
+Admins access admin features.
+
+No privilege escalation.
+
+No security issues.
+
+Improve rules if needed.
+
+----------------------------------------
+PART 8 - VERIFY NAVIGATION
+----------------------------------------
+
+Check Navigation Graph.
+
+Check Bottom Navigation.
+
+Check Toolbar.
+
+Check Admin Menu visibility.
+
+User must never see Admin Panel.
+
+----------------------------------------
+PART 9 - VERIFY HILT
+----------------------------------------
+
+Check all:
+
+Modules
+
+Injection
+
+Repositories
+
+ViewModels
+
+Workers
+
+Application class
+
+Fix if needed.
+
+----------------------------------------
+PART 10 - VERIFY WORKMANAGER
+----------------------------------------
+
+Check:
+
+Periodic Sync
+
+One Time Sync
+
+Boot Receiver
+
+FCM Trigger
+
+Offline Sync
+
+Retry Policy
+
+----------------------------------------
+PART 11 - VERIFY PROJECT STRUCTURE
+----------------------------------------
+
+Check every folder.
+
+Remove duplicate files.
+
+Remove unused files.
+
+Remove dead code.
+
+Fix imports.
+
+Fix unresolved references.
+
+----------------------------------------
+PART 12 - DELIVERABLES
+----------------------------------------
+
+I DO NOT want the entire project again.
+
+Instead provide ONLY changed files.
+
+Create a folder:
+
+Changes/
+
+Inside:
+
+app/
+
+java/
+
+res/
+
+navigation/
+
+menu/
+
+manifest/
+
+gradle/
+
+Only include modified files.
+
+Also create:
+
+CHANGELOG.md
+
+Include:
+
+1. File Name
+
+2. Why changed
+
+3. Old behavior
+
+4. New behavior
+
+5. Copy destination
+
+Example:
+
+Copy to:
+
+app/src/main/java/...
+
+Also create:
+
+INSTALL.md
+
+Explain:
+
+Step-by-step where each file should be pasted.
+
+----------------------------------------
+PART 13 - ZIP
+----------------------------------------
+
+Zip ONLY the modified files.
+
+Do NOT zip the entire project.
+
+I only want:
+
+Changes.zip
+
+Ready to copy-paste.
+
+----------------------------------------
+PART 14 - FINAL CHECK
+----------------------------------------
+
+Before generating the ZIP perform one final audit.
+
+Verify:
+
+✔ No compile errors
+
+✔ No unresolved references
+
+✔ No duplicate classes
+
+✔ No duplicate resources
+
+✔ No Gradle issues
+
+✔ Navigation works
+
+✔ Login works
+
+✔ Registration works
+
+✔ Logout works
+
+✔ Admin works
+
+✔ User works
+
+✔ Firebase works
+
+✔ Firestore works
+
+✔ WorkManager works
+
+✔ Background Sync works
+
+✔ Machine Test requirements satisfied
+
+Generate the ZIP only after every verification passes.
