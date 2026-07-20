@@ -1,0 +1,112 @@
+# Android Developer Machine Test
+
+1. Create a new Android application using Kotlin.
+
+2. Follow MVVM Architecture with a clean and scalable project structure.
+
+3. Use Git for version control and maintain proper commit history.
+
+4. Design and implement a Splash Screen.
+
+5. Implement Firebase Authentication using Email/Username and Password.
+
+6. Generate and store the Firebase Cloud Messaging (FCM) token after successful login.
+
+7. Validate user authentication before granting access to the application.
+
+8. Restrict all screens and routes to authenticated users only.
+
+9. Implement session management to keep users logged in until logout.
+
+10. Implement Logout functionality.
+
+11. Create and manage two user roles:
+   - Admin
+   - User
+
+12. Allow only Admin users to access administrative features.
+
+13. Implement role-based navigation and access control.
+
+14. Display a "Development Mode" status indicator (ON/OFF) for Admin users.
+
+15. Create a Dashboard/Home Screen displaying:
+   - Total Contacts Count
+   - Total Call Logs Count
+   - Total SMS Count
+   - Last Sync Date & Time
+   - Current User Role
+   - Development Mode Status
+
+16. Implement CRUD operations using Firebase Firestore or Firebase Realtime Database:
+   - Add Record
+   - View Record
+   - Update Record
+   - Delete Record (with confirmation dialog)
+
+17. Display records using RecyclerView.
+
+18. Implement Search and Filter functionality for all list screens.
+
+19. Request and manage runtime permissions for:
+   - Contacts
+   - Call Logs
+   - SMS
+
+20. Read and display device Contacts.
+
+21. Sync Contacts data to Firebase.
+
+22. Read and display device Call Logs including:
+   - Name
+   - Number
+   - Call Type
+   - Duration
+   - Date & Time
+
+23. Sync Call Log data to Firebase.
+
+24. Read and display device SMS messages including:
+   - Sender
+   - Message Preview
+   - Date & Time
+
+25. Sync SMS data to Firebase.
+
+26. Implement manual synchronization using a Sync button.
+
+27. Implement automatic background synchronization.
+
+28. Display synchronization progress and status.
+
+29. Prevent duplicate records during synchronization.
+
+30. Protect all screens using authentication checks.
+
+31. Restrict Admin-only features through role-based permissions.
+
+32. Configure Firebase Security Rules appropriately.
+
+33. Prevent unauthorized access and CRUD operations.
+
+34. Handle the following scenarios:
+   - No Internet Connection
+   - Authentication Failure
+   - Permission Denied
+   - Firebase Errors
+   - Empty States
+   - Synchronization Failures
+
+35. Display appropriate loading indicators during all network and synchronization operations.
+
+36. Deliverables:
+   - Complete Source Code (Git Repository)
+   - APK File
+   - README Documentation
+
+37. README must include:
+   - Project Setup Instructions
+   - Firebase Configuration Steps
+   - Architecture Overview
+   - Libraries Used
+   - Screenshots
