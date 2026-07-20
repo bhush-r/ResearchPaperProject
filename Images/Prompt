@@ -1,0 +1,393 @@
+You are a Senior Android Engineer and Solution Architect with 15+ years of experience.
+
+You are NOT allowed to simplify anything.
+
+You must build a COMPLETE production-ready Android application from scratch.
+
+The project name is:
+
+DataSync
+
+Package Name:
+
+com.bhushan.datasync
+
+Language:
+
+Kotlin
+
+Minimum SDK:
+
+29
+
+Build:
+
+Gradle Kotlin DSL (.kts)
+
+UI:
+
+XML (NOT Jetpack Compose)
+
+Architecture:
+
+MVVM + Repository Pattern + Clean Architecture
+
+Dependency Injection:
+
+Hilt
+
+Asynchronous Programming:
+
+Coroutines + StateFlow
+
+Backend:
+
+Firebase Authentication
+Firebase Firestore
+Firebase Cloud Messaging (FCM)
+
+Navigation:
+
+Navigation Component
+
+View Binding:
+
+Enabled
+
+Material Design 3
+
+IMPORTANT
+
+I have attached my Android Machine Test text.
+
+You MUST carefully read every requirement inside the text.
+
+You MUST implement ALL requirements exactly.
+
+Do NOT ignore any point.
+
+No placeholders.
+
+No pseudo code.
+
+No TODO comments.
+
+No sample implementation.
+
+Everything must be production ready.
+
+Use professional coding standards.
+
+The final project must look like it was built by an experienced Android developer.
+
+----------------------------------------------------
+PROJECT DETAILS
+----------------------------------------------------
+
+Project Name
+
+DataSync
+
+Package
+
+com.bhushan.datasync
+
+Android Studio
+
+Latest Stable Version
+
+Minimum SDK
+
+29
+
+Language
+
+Kotlin
+
+UI
+
+XML
+
+----------------------------------------------------
+IMPLEMENT ALL REQUIREMENTS
+----------------------------------------------------
+
+Read the attached text completely.
+
+Implement every single requirement including but not limited to:
+
+Splash Screen
+
+Firebase Authentication
+
+Login
+
+Session Management
+
+Admin/User Roles
+
+Role Based Access
+
+Dashboard
+
+CRUD
+
+RecyclerView
+
+Search
+
+Filter
+
+Contacts Permission
+
+Read Contacts
+
+Sync Contacts to Firebase
+
+Read Call Logs
+
+Sync Call Logs
+
+Read SMS
+
+Sync SMS
+
+Background Synchronization
+
+Manual Synchronization
+
+FCM Token Storage
+
+Development Mode
+
+Loading States
+
+Error Handling
+
+Permission Handling
+
+Duplicate Prevention
+
+Firebase Security Rules
+
+Logout
+
+Empty States
+
+No Internet Handling
+
+Authentication Failure
+
+Firebase Error Handling
+
+Role Based Navigation
+
+README
+
+APK Ready Project
+
+Git Ready Project
+
+----------------------------------------------------
+FOLDER STRUCTURE
+----------------------------------------------------
+
+Generate a professional folder structure.
+
+Follow Clean Architecture.
+
+Separate folders for
+
+activities
+
+fragments
+
+ui
+
+viewmodel
+
+repository
+
+model
+
+firebase
+
+adapter
+
+permission
+
+sync
+
+utils
+
+worker
+
+service
+
+receiver
+
+di
+
+database
+
+navigation
+
+----------------------------------------------------
+UI
+----------------------------------------------------
+
+Design a beautiful enterprise UI.
+
+Use Material Design 3.
+
+Professional spacing.
+
+Rounded cards.
+
+Material Toolbar.
+
+Modern Dashboard.
+
+Search Bar.
+
+FAB.
+
+Permission Screens.
+
+Dialogs.
+
+Bottom Sheets.
+
+Professional Colors.
+
+Animations.
+
+Loading.
+
+Skeleton Screens.
+
+Looks like a real Play Store application.
+
+NOT AI generated.
+
+Human Designed.
+
+----------------------------------------------------
+CODE QUALITY
+----------------------------------------------------
+
+No duplicate code.
+
+No memory leaks.
+
+Proper lifecycle handling.
+
+Proper ViewBinding.
+
+Proper Coroutine Scope.
+
+No deprecated APIs unless absolutely necessary.
+
+Use best Android practices.
+
+----------------------------------------------------
+WHAT TO GENERATE
+----------------------------------------------------
+
+Generate COMPLETE Android Studio Project.
+
+Generate ALL folders.
+
+Generate ALL Kotlin files.
+
+Generate ALL XML files.
+
+Generate Manifest.
+
+Generate Gradle.
+
+Generate Version Catalog.
+
+Generate Hilt.
+
+Generate Firebase configuration placeholders.
+
+Generate Adapters.
+
+Generate Models.
+
+Generate Repositories.
+
+Generate ViewModels.
+
+Generate Navigation.
+
+Generate README.
+
+Generate Git Ignore.
+
+Generate Firebase Rules.
+
+Generate APK configuration.
+
+Generate project icons.
+
+Generate every drawable.
+
+Generate strings.
+
+Generate themes.
+
+Generate colors.
+
+Generate dimensions.
+
+Generate styles.
+
+Generate Proguard rules.
+
+Generate Worker classes.
+
+Generate Services.
+
+Generate Broadcast Receivers.
+
+Generate Sync Manager.
+
+Generate Permission Manager.
+
+Generate everything required.
+
+----------------------------------------------------
+OUTPUT
+----------------------------------------------------
+
+I want the COMPLETE Android Studio Project.
+
+At the end
+
+Create a ZIP archive of the entire project folder.
+
+The ZIP must contain:
+
+Complete Android Studio Project
+
+Source Code
+
+Gradle
+
+XML
+
+Assets
+
+README
+
+No missing files.
+
+No placeholders.
+
+Everything should open directly inside Android Studio without additional modifications.
+
+If any configuration requires API keys (Firebase), clearly indicate where I need to place my own configuration files (for example, google-services.json), but complete the rest of the project.
+
+The final output should be a complete Android Studio project ready to build after adding my Firebase configuration.
