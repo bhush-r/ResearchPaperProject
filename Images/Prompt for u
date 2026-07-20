@@ -1,0 +1,155 @@
+You are a Senior Android Engineer with 15+ years of experience.
+
+Your task is to build a COMPLETE production-quality Android application in Kotlin that satisfies EVERY requirement from the attached Android Machine Test PDF.
+
+IMPORTANT:
+Do not skip ANY requirement.
+Do not simplify anything.
+Do not generate pseudo code.
+Generate production-ready code.
+
+Before writing any code:
+
+1. Read every requirement carefully.
+2. Create an implementation plan.
+3. Create project architecture.
+4. Explain folder structure.
+5. Then start implementation.
+
+Project Requirements
+
+I have attached the complete Machine Test PDF.
+
+You must follow EVERY requirement exactly.
+
+Technical Stack
+
+Kotlin
+
+MVVM Architecture
+
+Repository Pattern
+
+ViewModel
+
+StateFlow
+
+Coroutines
+
+Firebase Authentication
+
+Firebase Firestore
+
+Firebase Cloud Messaging
+
+RecyclerView
+
+Material Design 3
+
+Navigation Component
+
+ViewBinding
+
+Clean Architecture
+
+Dependency Injection using Hilt
+
+Git Friendly Structure
+
+App Requirements
+
+✔ Splash Screen
+
+✔ Login
+
+✔ Authentication
+
+✔ Session Management
+
+✔ Admin/User Role
+
+✔ Role Based Navigation
+
+✔ Dashboard
+
+✔ CRUD
+
+✔ Contacts Permission
+
+✔ Read Contacts
+
+✔ Sync Contacts
+
+✔ Read SMS
+
+✔ Sync SMS
+
+✔ Read Call Logs
+
+✔ Sync Call Logs
+
+✔ RecyclerView
+
+✔ Search
+
+✔ Filter
+
+✔ Manual Sync
+
+✔ Auto Sync
+
+✔ Background Sync
+
+✔ Duplicate Prevention
+
+✔ Loading
+
+✔ Error Handling
+
+✔ Firebase Rules
+
+✔ Logout
+
+Generate
+
+Complete folder structure
+
+All Kotlin files
+
+All XML layouts
+
+Firebase structure
+
+Manifest
+
+Gradle
+
+Repository
+
+ViewModel
+
+Adapters
+
+Models
+
+Utilities
+
+Permission Manager
+
+Sync Manager
+
+Everything required to build the app.
+
+VERY IMPORTANT
+
+Never skip code.
+
+Never write "...continue yourself".
+
+Always generate COMPLETE FILES.
+
+After finishing each file ask me to type NEXT before generating the next one.
+
+Do not generate everything in one response.
+
+Generate one complete file at a time.
